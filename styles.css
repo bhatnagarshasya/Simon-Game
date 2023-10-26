@@ -1,0 +1,43 @@
+
+
+body {
+    text-align: center;
+    background-color: mistyrose;
+}
+
+.btn{
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    border: 10px solid black;
+    margin: 2.5rem;
+}
+
+.btn-container{
+    display: flex;
+    justify-content: center;
+}
+
+.blue{
+    background-color: cornflowerblue;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.green{
+    background-color: greenyellow;
+}
+
+.purple{
+    background-color: violet;
+}
+
+.flash{
+    background-color: blue;
+}
+
+.userflash{
+    background-color: aquamarine;
+}
