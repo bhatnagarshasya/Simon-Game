@@ -1,4 +1,4 @@
-Simon Game: https://siddharth1401.github.io/Simon-Game/
+
 
 Developed an interactive Simon game using HTML, CSS, and Javascript.
 Designed an engaging user interface with colorful buttons and dynamic animations.
